@@ -1,18 +1,3 @@
-// import React from 'react'
-// import {View,Text} from 'react-native'
-
-// import Splashscreen from './scrns/splashscreen';
-
-// const Home=()=>{
-//   return(
-//     <View>
-//       <Splashscreen/>  
-        
-//     </View>
-//   );
-// }
-// export default Home;
-
 import React, {useRef, useEffect} from 'react';
 import {
   SafeAreaView,
